@@ -13,4 +13,13 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require jquery-1.11.1.min
+//= require bootstrap
+//= require modernizr.custom.97074
+//= require jquery.chocolat
+//= require move-top
+//= require easing
+//= require jquery.magnific-popup
+//= require modernizr.custom.53451
+//= require jquery.wmuSlider
 //= require_tree .
