@@ -67,7 +67,7 @@ input[type="submit"],.header_left ul li a,.agile_back_home a,.agileits_social h5
 	-ms-transition: .5s ease-in;
 }
 .header {
-    background: #FFC107;
+    background: #8F2EAF;
 }
 .w3l_header_left{
 	float:left;
@@ -115,7 +115,7 @@ input[type="submit"],.header_left ul li a,.agile_back_home a,.agileits_social h5
 .w3l_header_right ul li a:hover {
     background: #212121;
     border-color: #212121;
-    color: #ffc107;
+    color: #8F2EAF;
 }
 .w3l_header_right ul li a span{
 	padding-right:1em;
@@ -184,7 +184,7 @@ form a {
 
 }
 #small-dialog, #small-dialog2 {
-	background:#00bcd4;
+	background:#000;
 	padding:50px;
 }
 #small-dialog input[type="submit"], #small-dialog2 input[type="submit"] {
@@ -198,10 +198,10 @@ form a {
 	width:100%;
 }
 #small-dialog input[type="submit"]:hover, #small-dialog2 input[type="submit"]:hover {
-	background: #FFC107;
+	background: #8F2EAF;
 }
 #small-dialog a:hover{
-	color:#FFC107;
+	color:#8F2EAF;
 }
  ::-webkit-input-placeholder{
 color:#000 !important;
@@ -222,7 +222,7 @@ color:#000 !important;
 	margin-top:-10px;
 }
 .logo-w3 h1{
-	color:#FFC107;
+	color:#8F2EAF;
 	font-size:35px;
 	text-align:left;
 	text-transform:uppercase;
@@ -275,11 +275,11 @@ color:#000 !important;
 	text-decoration: none;
 	line-height: normal;
 	font-size: 14px;
-	color: #FFC107;
+	color: #8F2EAF;
 }
 .hover-effect a.active{
 	background:#000;
-	color:#FFC107;
+	color:#fff;
 }
 .hover-effect a:before {
 	bottom: 25%;
@@ -299,7 +299,7 @@ color:#000 !important;
 	opacity: 0;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
-	color:#FFC107;
+	color:#fff;
 }
 
 .hover-effect li:before {
@@ -371,14 +371,14 @@ color:#000 !important;
 	margin:30px 0px;
 }
 .banner h2 span{
-	color:#00bcd4;
+	color:#8F2EAF;
 }
 .banner h4{
 	color:#fff;
 	font-size:14px;
 	letter-spacing:1px;
 	text-transform:uppercase;
-	background:#00bcd4;
+	background:#000;
 	width:20%;
 	margin:0 auto;
 	padding:10px 0px;
@@ -419,7 +419,7 @@ color:#000 !important;
 }
 .contact-w3-agileits h3:after,.about-w3-agile h3:after,.featured-work h3:after,.gallery h3:after,.team h3:after,.services h3:after{
     content: '';
-    background:  #FFC107;
+    background:  #8F2EAF;
     width: 10%;
     height: 3px;
     position: absolute;
@@ -440,7 +440,7 @@ color:#000 !important;
 }
 .wthree_about_grid_left a,.featured-right a{
 	font-size:14px;
-	background: #FFC107;
+	background: #8F2EAF;
     color: #fff;
     padding: 8px 15px;
     margin-top: 15px;
@@ -448,10 +448,10 @@ color:#000 !important;
 	display:inline-block;
 }
 .wthree_about_grid_left a:hover,.featured-right a:hover{
-		background: #00bcd4;
+		background: #000;
 }
 .modal-header ,.modal-footer{
-    background: #00BCD4;
+    background: #000;
 }
 .modal-header h4{
 	color:#000;
@@ -508,7 +508,7 @@ ul.wmuSliderPagination {
 	border-radius:50%;
 }
 .wmuSliderPagination a.wmuActive {
-	background: #00bcd4;
+	background: #000;
     box-shadow: 0px 0px 10px #3D99DC;
 	-webkit-box-shadow: 0px 0px 10px #3D99DC;
 	-moz-box-shadow: 0px 0px 10px #3D99DC;
@@ -542,7 +542,7 @@ ul.wmuSliderPagination {
 /*-- services --*/
 .services{
 	text-align:center;
-	background:#00bcd4;
+	background:#000;
 }
 .services h3{
 	color:#fff;
@@ -554,7 +554,7 @@ ul.wmuSliderPagination {
 	width:5%;
 }
 .services .glyphicon {
-    color: #FFC107;
+    color: #8F2EAF;
     border: 2px solid #fff;
     padding: 15px;
     border-radius: 50%;
@@ -563,7 +563,7 @@ ul.wmuSliderPagination {
 }
 .services .glyphicon:after {
     content: '';
-    background: #FFC107;
+    background: #8F2EAF;
     width: 60%;
     height: 3px;
     position: absolute;
@@ -936,7 +936,7 @@ figure.effect-apollo:hover figcaption::before {
 	font-size:14px;
 }
 .contact-right-w3l input[type="submit"]{
-	background: #FFC107;
+	background: #8F2EAF;
 	color:#fff;
 	padding:8px 15px;
 	margin-top:15px;
@@ -944,12 +944,12 @@ figure.effect-apollo:hover figcaption::before {
 	outline:none;
 }
 .contact-right-w3l input[type="submit"]:hover{
-	background: #00bcd4;
+	background: #000;
 }
 /*-- //contact --*/
 .footer-w3l{
 	padding:30px 0px;
-	background:#00bcd4
+	background:#000
 }
 .footer-w3l p{
 	color:#fff;
@@ -1314,7 +1314,7 @@ figure.effect-apollo:hover figcaption::before {
 }
 @media (max-width:736px){
 	.navbar-toggle {
-		background-color: #00BCD4;
+		background-color: #000;
 		border-radius:0;
 		border: none;
 	}
@@ -1322,7 +1322,7 @@ figure.effect-apollo:hover figcaption::before {
 		background-color: #fff;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-		background-color: #ffc107;
+		background-color: #8F2EAF;
 	}
 	.hover-effect ul {
 		text-align: left;
@@ -1973,4 +1973,8 @@ figure.effect-apollo:hover figcaption::before {
 		width: 67%;
 		float: right;
 	}
+}
+
+.sec-hover a:hover {
+  color: #fff;
 }
